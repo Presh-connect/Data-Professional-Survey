@@ -68,7 +68,7 @@ and work-life balance among data professionals.
 
   This Power BI project provides a detailed analysis of the survey responses from data professionals. The insights gained from this project can help organizations understand the demographic and professional landscape of data professionals, their preferences, challenges, and satisfaction levels. The interactive dashboard serves as a valuable tool for visualizing and interpreting the survey data effectively.
 
-  Feel free to contribute to this project by submitting issues or pull requests. For any questions, please contact me.
+  Feel free to contribute to this project by submitting issues or pull requests. For any questions, please contact me. 🤝
 
 
 
