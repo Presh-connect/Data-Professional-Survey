@@ -3,11 +3,11 @@
 ## Table Of Contents 
 
 - [Project Overview](#Project-overiew)
-- [Data Source](data-source)
-- [Tools](tools)
-- [Data Cleaning and Transformation](Data-Cleaning-and-Transformation)
-- [Data Visualization](Data-Visualization)
-- [Dashboard Insights](Dashboard-Insights)
+- [Data Source](#data-source)
+- [Tools](#tools)
+- [Data Cleaning and Transformation](#Data-Cleaning-and-Transformation)
+- [Data Visualization](#Data-Visualization)
+- [Dashboard Insights](#Dashboard-Insights)
 - [Conclusion](#conclusion)
 
 ## Project Overview
