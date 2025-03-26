@@ -15,7 +15,7 @@
 This Power BI project aims to analyze and visualize the survey data of data professionals. The survey covers various aspects such as demographic information, professional satisfaction, and career-related insights. The project involves data cleaning, transformation, and visualization to provide meaningful insights into the data professional community. Table of Contents
 
 
-## Data Source : 
+## Data Source  
 
 Data Professional Survey - This is a Dataset used for this analysis which is the "data_professional_project.csv" file, containing detailed information about preferences, needs, and trends in the data professional industry.
 
