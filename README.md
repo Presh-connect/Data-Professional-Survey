@@ -12,9 +12,7 @@
 
 ## Project Overview
 
-This Power BI project aims to analyze and visualize the survey data of data professionals. The survey covers various aspects such as demographic information, professional satisfaction, and career-related insights. The project involves data cleaning, transformation, and visualization to provide meaningful insights into the data professional community. Table of Contents
-![Dashboard final project- powerbi](https://github.com/user-attachments/assets/8c61a9d8-650a-4754-8a0e-427c18baadf9)
-
+This Power BI project aims to analyze and visualize the survey data of data professionals. The survey covers various aspects such as demographic information, professional satisfaction, and career-related insights. The project involves data cleaning, transformation, and visualization to provide meaningful insights into the data professional community. 
 
 ## Data Source  
 
@@ -63,7 +61,9 @@ The Power BI dashboard provides several key insights:
   - Salary Trends: Data Scientists earn the highest average salaries, with Data Engineers and Data Architects following closely.
   - Job Satisfaction: The average satisfaction scores indicate room for improvement in salary 
 and work-life balance among data professionals.
-  - Demographics: The average age of respondents is around 29, indicating a relatively young professional demographic.
+
+![Dashboard final project- powerbi](https://github.com/user-attachments/assets/8c61a9d8-650a-4754-8a0e-427c18baadf9)
+
 
 ## Conclusion
 
